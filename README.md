@@ -1,7 +1,6 @@
 # Java Calculator Tests
 
-Simple Java console calculator project with basic arithmetic operations and TestNG unit tests.
-
+Simple Java console calculator project with basic arithmetic operations and OOP structure.
 ## Features
 
 - Addition
