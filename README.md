@@ -16,7 +16,6 @@ Simple Java console calculator project with basic arithmetic operations and OOP 
 
 - Java
 - Maven
-- TestNG
 - Git & GitHub
 
 ## Project Structure
